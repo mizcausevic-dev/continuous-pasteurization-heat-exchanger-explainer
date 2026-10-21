@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/continuous-pasteurization-heat-exchanger-explainer/
 
+Repository: https://github.com/mizcausevic-dev/continuous-pasteurization-heat-exchanger-explainer
+
 ## What this is
 
 An interactive anatomy plate for Continuous Pasteurization Heat Exchanger. Play, scrub, or jump the five stages. The same frame always draws the same picture.
